@@ -1,6 +1,6 @@
 # Svelte Todo App
 
-[Demo]()
+[Demo](https://rawcdn.githack.com/zenott/svelte-todo/0f5b9f2a136ba45c75ca8c677c3ea45e3eb402c9/public/index.html)
 
 ## Get started
 
